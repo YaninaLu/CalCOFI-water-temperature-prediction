@@ -2,14 +2,6 @@
 
 This Jupyter Notebook presents an endeavor of predicting ocean water temperature using linear regression techniques. The analysis is conducted on the CalCOFI dataset, which provides a substantial amount of diverse and high-quality oceonographic data.
 
-## Table of Contents
-
-[[TOC]]
-
-## Introduction
-## Dataset
-## Notebook Contents
-
 ## Introduction
 
 This notebook focuses on predicting ocean water temperature using linear regression techniques. The goal is to explore the relationships between water temperature and other relevant features, such as depth, salinity, oxygen concentration, and spatiotemporal factors. The analysis includes Exploratory Data Analysis (EDA), feature engineering, feature selection, and the evaluation of three different linear regression models.
